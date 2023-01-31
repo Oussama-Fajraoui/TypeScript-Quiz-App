@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TypeScript-Quiz-App/static/css/main.e6c13ad2.css",
+    "main.js": "/TypeScript-Quiz-App/static/js/main.c3f1ca34.js",
+    "static/js/787.57239b0f.chunk.js": "/TypeScript-Quiz-App/static/js/787.57239b0f.chunk.js",
+    "static/media/winter-bg.jpg": "/TypeScript-Quiz-App/static/media/winter-bg.752090be4ebce67ae83a.jpg",
+    "static/media/loading.gif": "/TypeScript-Quiz-App/static/media/loading.dee9c1c0393fb103377b.gif",
+    "static/media/summer-bg.jpg": "/TypeScript-Quiz-App/static/media/summer-bg.75a49a3941677597e233.jpg",
+    "index.html": "/TypeScript-Quiz-App/index.html",
+    "main.e6c13ad2.css.map": "/TypeScript-Quiz-App/static/css/main.e6c13ad2.css.map",
+    "main.c3f1ca34.js.map": "/TypeScript-Quiz-App/static/js/main.c3f1ca34.js.map",
+    "787.57239b0f.chunk.js.map": "/TypeScript-Quiz-App/static/js/787.57239b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c3f1ca34.js"
+  ]
+}
